@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/code-ex">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&height=50&lines=Hi+%F0%9F%91%8B+I'm+Mehmet+Emin+Metin;Solving+one+problem%2C+causing+three+new+ones...;3rd+Year+Computer+Engineering+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=740&height=50&lines=Hi+%F0%9F%91%8B+I'm+Mehmet+Emin+Metin;Solving+one+problem%2C+causing+three+new+ones...;3rd+Year+Computer+Engineering+Student" alt="Typing SVG" />
   </a>
 
   <p align="center">
