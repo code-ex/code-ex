@@ -1,11 +1,11 @@
 <div align="center">
 
   <a href="https://github.com/code-ex">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=50&lines=Hi+%F0%9F%91%8B+I'm+Mehmet+Emin+Metin;Backend+%26+AI%2FRAG+Engineer;Building+Enterprise+Cloud+%26+Cognitive+Systems;3rd+Year+Computer+Engineering+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&height=50&lines=Hi+%F0%9F%91%8B+I'm+Mehmet+Emin+Metin;Exploring+Diverse+Architectures%2C+Building+Resilient+Software;3rd+Year+Computer+Engineering+Student" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Computer Engineering Student (3rd Year) • Systems Architect • AI/RAG Specialist</strong>
+    <strong>Computer Engineering Student (3rd Year) • Versatile Software Developer • Systems, Cloud & AI</strong>
   </p>
 
   <p align="center">
@@ -58,8 +58,8 @@
 - Designed an enterprise-grade domain-agnostic Turkish Cognitive RAG platform with 4-cognitive-facet analysis.
 - Implemented DAG query orchestration with multi-stage reasoning, resilient typo/de-asciification resolution, and air-gapped synthesis support.
 
-#### 2. [Amethyst Cloud Storage System](https://github.com/code-ex)
-> **Stack:** Apache OpenDAL, WebDAV, Amazon S3, Keycloak IAM, Real-Time Metrics, Archive Inspector  
+#### 2. [Amethyst Cloud Storage System](https://www.linkedin.com/posts/mehmet-emin-metin-a905aa257_softwareengineering-java-golang-ugcPost-7507704948525133824-O6b_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9FH4wB_plHjqXy1kBsqn2a6pNQDUvvn9w)
+> **Stack:** Apache OpenDAL, WebDAV, Amazon S3, Keycloak IAM, Real-Time Metrics, Archive Inspector • [LinkedIn Architecture Review](https://www.linkedin.com/posts/mehmet-emin-metin-a905aa257_softwareengineering-java-golang-ugcPost-7507704948525133824-O6b_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9FH4wB_plHjqXy1kBsqn2a6pNQDUvvn9w)  
 - Engineered an enterprise storage gateway abstracting multi-backend storage (WebDAV, S3) with unified authentication and fine-grained access policies.
 - Includes multi-format archive inspection, live telemetry, and zero-trust IAM integration via Keycloak.
 
